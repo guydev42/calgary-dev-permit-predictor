@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.joblib
+.ipynb_checkpoints/
+.DS_Store
+data/development_permits.csv
